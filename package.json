@@ -23,7 +23,7 @@
     "boom": "^6.0.0",
     "fast-safe-stringify": "^1.2.0",
     "handlebars": "^4.0.11",
-    "hoek": "^5.0.0",
+    "hoek": "^4.2.0",
     "http-status": "^1.0.1",
     "joi": "^13.0.0",
     "json-schema-ref-parser": "^4.0.0",
